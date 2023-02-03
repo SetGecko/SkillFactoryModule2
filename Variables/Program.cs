@@ -8,9 +8,9 @@
 
             Console.WriteLine(MyName);
 
-            Console.WriteLine("Привет, мир!");
-            Console.WriteLine("Мне 35 лет.");
-            Console.WriteLine("Мой имя Алексей");
+            Console.WriteLine("\tПривет, мир!");
+            Console.WriteLine("\tМне 35 лет.");
+            Console.WriteLine("\tМоё имя \n Алексей.");
 
 
             Console.ReadKey();
