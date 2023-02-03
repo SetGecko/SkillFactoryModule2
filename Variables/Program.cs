@@ -12,6 +12,8 @@
             Console.WriteLine("\tМне 35 лет.");
             Console.WriteLine("\tМоё имя \n Алексей.");
 
+            Console.WriteLine("\u0040");
+            Console.WriteLine("\u0023");
 
             Console.ReadKey();
         }
