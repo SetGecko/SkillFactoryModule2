@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string MyName = "Алексей";
+            const string MyName = "Алексей";
 
             Console.WriteLine(MyName);
 
