@@ -14,6 +14,10 @@
             Console.WriteLine("У меня есть питомец? " + haveIPet);
             Console.WriteLine("Мой размер ноги " + myShoesSize);
 
+            Console.WriteLine($"Мой возраст {myAge}");
+
+            
+
         }
     }
 }
