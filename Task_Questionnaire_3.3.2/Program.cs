@@ -15,9 +15,6 @@
             Console.WriteLine("Мой размер ноги " + myShoesSize);
 
             Console.WriteLine($"Мой возраст {myAge}");
-
-            
-
         }
     }
 }
