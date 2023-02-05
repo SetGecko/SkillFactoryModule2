@@ -4,7 +4,15 @@
     {
         static void Main(string[] args)
         {
-            
+            string myName = "Алексей";
+            byte myAge = 35;
+            bool haveIPet = true;
+            double myShoesSize = 41.5;
+
+            Console.WriteLine("Меня зовут " + myName);
+            Console.WriteLine("Мой возраст " + myAge);
+            Console.WriteLine("У меня есть питомец? " + haveIPet);
+            Console.WriteLine("Мой размер ноги " + myShoesSize);
         }
     }
 }
