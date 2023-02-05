@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3.6.7", "Task_3.6.7\Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transformations", "Transformations\Transformations.csproj", "{E83872EA-5B05-446A-AAEC-FA901E75F5B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitTyping", "ImplicitTyping\ImplicitTyping.csproj", "{80BC8822-10F0-4A85-B48E-B83FDA9E7C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalPracticeModuleQuestioningUsers", "FinalPracticeModuleQuestioningUsers\FinalPracticeModuleQuestioningUsers.csproj", "{BF23FE7E-5FA3-42EF-B5FA-9FA63DEC6C95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{E83872EA-5B05-446A-AAEC-FA901E75F5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E83872EA-5B05-446A-AAEC-FA901E75F5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E83872EA-5B05-446A-AAEC-FA901E75F5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BC8822-10F0-4A85-B48E-B83FDA9E7C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BC8822-10F0-4A85-B48E-B83FDA9E7C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BC8822-10F0-4A85-B48E-B83FDA9E7C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BC8822-10F0-4A85-B48E-B83FDA9E7C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF23FE7E-5FA3-42EF-B5FA-9FA63DEC6C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF23FE7E-5FA3-42EF-B5FA-9FA63DEC6C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF23FE7E-5FA3-42EF-B5FA-9FA63DEC6C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF23FE7E-5FA3-42EF-B5FA-9FA63DEC6C95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
