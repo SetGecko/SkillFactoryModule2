@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{6DA9194B-9687-41E5-9ABD-404AECF09C40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Questionnaire_3.3.2", "Task_Questionnaire_3.3.2\Task_Questionnaire_3.3.2.csproj", "{DA5915F0-B301-4CE2-9E5D-63E75C52EC06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Questionnaire_3.3.2", "Task_Questionnaire_3.3.2\Task_Questionnaire_3.3.2.csproj", "{DA5915F0-B301-4CE2-9E5D-63E75C52EC06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "Enumeration\Enumeration.csproj", "{30BA56D2-F2BD-42A6-B43B-09F64D80C73D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DA5915F0-B301-4CE2-9E5D-63E75C52EC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA5915F0-B301-4CE2-9E5D-63E75C52EC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA5915F0-B301-4CE2-9E5D-63E75C52EC06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BA56D2-F2BD-42A6-B43B-09F64D80C73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BA56D2-F2BD-42A6-B43B-09F64D80C73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BA56D2-F2BD-42A6-B43B-09F64D80C73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BA56D2-F2BD-42A6-B43B-09F64D80C73D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
